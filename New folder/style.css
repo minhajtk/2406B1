@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.flex{
+    display: flex;
+}
+.flex-d-c{
+    flex-direction: column;
+}
+.justify-content-c{
+    justify-content: center;
+}
+.gap{
+    gap: 15px;
+}
